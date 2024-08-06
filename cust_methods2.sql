@@ -1,0 +1,2 @@
+SELECT  * FROM cust
+LIMIT 2
